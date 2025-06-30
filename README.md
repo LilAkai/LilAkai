@@ -1,4 +1,4 @@
-#Game Academy Student
+# Game Academy Student
 
 ## School Student:
 >C Developper
