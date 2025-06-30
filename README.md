@@ -3,5 +3,5 @@
 ## School Student:
 >C Developper
 
-![image](https://github.com/user-attachments/assets/e93ceff7-9c12-4fbb-b07e-b73cc94f18f4)
 >Java learner
+![image](https://github.com/user-attachments/assets/20e60aaa-43a9-4981-a16d-1ee80be5cf73)
