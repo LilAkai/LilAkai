@@ -1,4 +1,5 @@
-# Hi there 👋
+#Game Academy Student
 
-## School :
-Learning C
+## School Student:
+>C Developper
+>Java learner
