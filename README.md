@@ -1,7 +1,7 @@
 # Game Academy Student
 
 ## School Student:
-C Developper
+>C Developper
 
-![image](https://github.com/user-attachments/assets/ed2f88bf-e1d8-439d-ac8a-922f55ed786e)
-Java learner
+>### Java learner
+![image](https://github.com/user-attachments/assets/20e60aaa-43a9-4981-a16d-1ee80be5cf73)
