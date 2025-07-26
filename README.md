@@ -1,5 +1,5 @@
 # Game Academy Student
 
-## C Developper
+## C Junior Dev
 
 ## Java learner
